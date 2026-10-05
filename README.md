@@ -310,11 +310,10 @@ LyricBstorm/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LyricBstorm.git
+git clone https://github.com/parth-bidave/LyricBstorm.git
 cd LyricBstorm
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ---
 
